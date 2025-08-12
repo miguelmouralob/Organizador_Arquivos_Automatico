@@ -8,6 +8,7 @@ PASTA_ORIGEM_DEFAULT = r"C:\Users\nome_usuario\Teste_Projeto_Organizador_Arquivo
 LOG_FILENAME = "organizador_log.txt"
 
 MAPEAMENTO = {
+    ".txt": "Documentos",
     ".pdf": "Documentos",
     ".docx": "Documentos",
     ".doc": "Documentos",
@@ -17,8 +18,7 @@ MAPEAMENTO = {
     ".mp3": "Musicas",
     ".mp4": "Videos",
     ".zip": "Arquivos_Comprimidos",
-    ".rar": "Arquivos_Comprimidos",
-    ".txt": "Documentos"
+    ".rar": "Arquivos_Comprimidos"
 }
 
 # Funções Usadas
